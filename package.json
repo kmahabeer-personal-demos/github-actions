@@ -1,0 +1,12 @@
+{
+  "name": "github-actions",
+  "version": "0.1.0",
+  "description": "To research and develop workflows with Github actions that can be applied to other repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
